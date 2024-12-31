@@ -179,4 +179,16 @@ const data = [
         linkClasses: '',
         linkStyle: ''
     },
+    {
+        name: 'Djey',
+        githubName: 'https://github.com/djeytq',
+        githubUserName: 'DjeyTQ',
+        informationTitle: 'FullStack',
+        information: 'Hello! If you wanna create link with, be free! I like learning and meet new people',
+        image: 'Dragão.jpg',
+        cardClasses: '',
+        nameClasses: 'grey-text text-darken-4',
+        linkClasses: '',
+        linkStyle: ''
+    },
 ]
